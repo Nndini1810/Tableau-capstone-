@@ -59,14 +59,6 @@ This project visualizes key metrics and trends related to bank loans using Table
 
 ---
 
-### How to Run the Project
-
-1. **Open Tableau Public Desktop**: Download and install Tableau Public if not already installed.
-2. **Import Data**: Load the bank loan dataset into Tableau.
-3. **Navigate to Dashboard**: Access the main dashboard to view the visualizations.
-4. **Use Filters**: Apply various filters (Loan Status, Purpose, Year of Issue) for dynamic data exploration.
-
----
 
 
 
