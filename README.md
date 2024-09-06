@@ -1,7 +1,8 @@
 # Tableau-capstone-
-# Bank Loan Dashboard - Tableau Project
+# Bank Loan Dashboard - Tableau Project 
 
 ![Bank Loan Dashboard](https://github.com/Nndini1810/Tableau-capstone-/blob/main/ss.png)
+You can view the full project [here](https://public.tableau.com/app/profile/nandini.agarwal2473/viz/tableaucapstone_17256040118240/mainDashboard?publish=yes).
 
 ## Project Overview
 
